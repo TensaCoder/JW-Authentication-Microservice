@@ -1,4 +1,4 @@
-package com.gopinath.token.issuer.model;
+package com.aditya.token.issuer.model;
 
 public class RequestData {
     String subject;
