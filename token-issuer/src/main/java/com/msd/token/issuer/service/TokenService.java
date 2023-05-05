@@ -1,9 +1,9 @@
-package com.aditya.token.issuer.service;
+package com.msd.token.issuer.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import com.aditya.token.issuer.model.RequestData;
+import com.msd.token.issuer.model.RequestData;
 import com.nimbusds.jose.*;
 import com.nimbusds.jose.crypto.*;
 import com.nimbusds.jose.jwk.*;

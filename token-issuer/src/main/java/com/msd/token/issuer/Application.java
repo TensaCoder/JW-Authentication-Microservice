@@ -1,4 +1,4 @@
-package com.aditya.token.issuer;
+package com.msd.token.issuer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

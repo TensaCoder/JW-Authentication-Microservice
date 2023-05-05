@@ -1,4 +1,4 @@
-package com.aditya.token.issuer.controller;
+package com.msd.token.issuer.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

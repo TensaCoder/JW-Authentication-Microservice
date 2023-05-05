@@ -1,4 +1,4 @@
-package com.gopinath.service.provider;
+package com.msd.service.provider;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.aditya.token.issuer.model;
+package com.msd.token.issuer.model;
 
 public class RequestData {
     String subject;

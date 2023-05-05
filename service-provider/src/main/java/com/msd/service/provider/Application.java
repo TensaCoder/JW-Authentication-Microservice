@@ -1,4 +1,4 @@
-package com.gopinath.service.provider;
+package com.msd.service.provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

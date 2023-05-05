@@ -1,4 +1,4 @@
-package com.aditya.token.issuer.controller;
+package com.msd.token.issuer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aditya.token.issuer.model.RequestData;
-import com.aditya.token.issuer.service.TokenService;
+import com.msd.token.issuer.model.RequestData;
+import com.msd.token.issuer.service.TokenService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
