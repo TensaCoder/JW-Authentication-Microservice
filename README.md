@@ -3,6 +3,7 @@
 <h1 align="center">JWT Authentiction Microservice</h1>
 
 <p align="center">
+
 ![1](https://user-images.githubusercontent.com/77115883/236470380-46737303-7ed4-4eeb-aea4-417b1a8ecb5c.jpg)
 </p>
 
