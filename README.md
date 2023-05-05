@@ -2,5 +2,4 @@
 
 ## JWT Authentiction Microservice 
 
-
-![LiGav](https://user-images.githubusercontent.com/77115883/236470060-b0617392-e755-424f-aa70-27964673f38a.png)
+![1](https://user-images.githubusercontent.com/77115883/236470380-46737303-7ed4-4eeb-aea4-417b1a8ecb5c.jpg)
